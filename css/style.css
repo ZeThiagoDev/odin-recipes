@@ -1,3 +1,89 @@
 body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-image: url(../images/food.png);
+    margin-right: 20px;
 }
+
+h1 {
+    background-color: green;
+    color: yellow;
+    font-size: 50px;
+    text-align: center;
+}
+
+a {
+    font-size: 25px;
+    color: blue;
+    font-weight: bold;
+}
+
+h2 {
+    background-color: blue;
+    color: yellow;
+    padding-left: 20px;
+}
+
+div {
+    font-size: 25px;
+    margin-left: 35px;
+    color: blue;
+}
+
+p, li {
+    margin-right: 20px;
+    text-align: justify;
+}
+
+p {
+    margin-left: 50px;
+}
+
+li {
+    margin-left: 25px;
+}
+
+.image {
+    margin-left: 350px;
+    width: 500px;
+}
+
+.box1 {
+    background: yellow;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 35px;
+    padding: 50px 100px 50px 50px;
+    float: left;
+}
+
+.box2 {
+    background: yellow;
+    width: 200px;
+    margin: 10px;
+    padding: 50px 100px 75px 50px;
+    float: left;
+}
+
+.box3 {
+    background: yellow;
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding: 50px 100px 75px 50px;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
